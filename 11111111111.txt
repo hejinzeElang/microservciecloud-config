@@ -3,4 +3,8 @@ dajdfajlksdfja
 
 222
 
+
+唐僧 在次编辑,所有文件都要提交git hub仓库。
+1.学会git 命令
+2。利用git hub作为代码提交的服务器。明天记录都要上库
 33kifakjsdlklfjalkdfjj303
